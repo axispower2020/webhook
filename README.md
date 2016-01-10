@@ -1,6 +1,11 @@
 # README (Manual WebHooks)
 
 
+## Time Taken
+
+> 4 hours, Approx: 6 hours
+
+
 ## Installation (Prereq: npm, node, express4)
 
 1. git clone
@@ -24,4 +29,4 @@
 
 ## Notes
 
-1. Tune your computer time to sync with the real time, otherwise the applications can go wrong (e.g. your computer clock faster than the real one would make the "since" variable always faster than any update time as recorded by github.
+1. Tune your computer time to sync with the real time, otherwise the application can go wrong (e.g. your computer clock faster than the real one would make the "since" variable always faster than any update time as recorded by github.
