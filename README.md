@@ -3,7 +3,7 @@
 
 ## Time Taken
 
-> 4 hours, Approx: 6 hours
+Exceed 4 hours, Approx: 6 hours
 
 
 ## Installation (Prereq: npm, node, express4)
