@@ -1,0 +1,25 @@
+body > div {
+    padding: 45px;
+    padding-top: 30px;
+}
+
+
+td {
+    padding: 5px;
+    border: 1px black solid;
+    text-align: left;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+form {
+    width: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: 1px black dashed;
+}
