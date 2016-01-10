@@ -31,3 +31,4 @@ Exceed 4 hours, Approx: 6 hours
 ## Notes
 
 1. Tune your computer time to sync with the real time, otherwise the application can go wrong (e.g. your computer clock faster than the real one would make the "since" variable always faster than any update time as recorded by github.
+2. Only update operations on issues after npm start for 10 seconds would be reflected in the server.
